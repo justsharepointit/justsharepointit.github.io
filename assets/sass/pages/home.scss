@@ -1,0 +1,32 @@
+---
+---
+
+.servicesList {
+        text-align: left;
+        font-size: 18px;
+
+        ul {
+            margin-left: 66px;
+
+            li {
+                font-weight: bold;
+            }
+        }
+}
+
+#main .contactInfo {
+    font-family: "Source Sans Pro",Helvetica,sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #4d5053;
+
+    a {
+        color: #4d5053;
+        margin-left: 20px;
+
+        .mail {
+            margin-left: 10px;
+        }
+    }
+}
