@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              Just SharePoint It!
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -27,7 +27,7 @@ kramdown:
   enable_coderay:   false
 mathjax:            true
 sass:
-  sass_dir:         _sass
+  sass_dir:         "assets/sass"
   style:            compressed
 
 # Comments
